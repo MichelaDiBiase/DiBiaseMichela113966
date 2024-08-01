@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unicam.cs.pa2024.dibiasemichela113966.ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-23T17:47:40" hostname="LAPTOP-O6NG8JTR" time="0.915">
+  <properties/>
+  <testcase name="contextLoads()" classname="it.unicam.cs.pa2024.dibiasemichela113966.ApplicationTests" time="0.915"/>
+  <system-out><![CDATA[19:47:39.138 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [it.unicam.cs.pa2024.dibiasemichela113966.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:47:39.257 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration it.unicam.cs.pa2024.dibiasemichela113966.Application for test class it.unicam.cs.pa2024.dibiasemichela113966.ApplicationTests
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.0)
+
+2024-06-23T19:47:39.772+02:00  INFO 16592 --- [DiBiaseMichela113966] [    Test worker] i.u.c.p.d.ApplicationTests               : Starting ApplicationTests using Java 17.0.7 with PID 16592 (started by ASUS in C:\Users\ASUS\Desktop\Formula1)
+2024-06-23T19:47:39.773+02:00  INFO 16592 --- [DiBiaseMichela113966] [    Test worker] i.u.c.p.d.ApplicationTests               : No active profile set, falling back to 1 default profile: "default"
+2024-06-23T19:47:40.305+02:00  INFO 16592 --- [DiBiaseMichela113966] [    Test worker] i.u.c.p.d.ApplicationTests               : Started ApplicationTests in 0.844 seconds (process running for 2.029)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
